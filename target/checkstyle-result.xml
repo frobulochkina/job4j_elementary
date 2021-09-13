@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.0">
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/Echo.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/Multiple.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/StudentInfo.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/Info.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/condition/Greeting.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/condition/TrgArea.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/Main.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/calculator/ArgMethod.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/main/java/ru/job4j/calculator/MathFunc.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/test/java/ru/job4j/System.java">
+</file>
+<file name="/home/lena/job4j_elementary/src/test/java/ru/job4j/MainTest.java">
+</file>
+</checkstyle>
