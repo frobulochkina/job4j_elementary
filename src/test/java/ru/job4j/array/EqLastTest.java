@@ -24,7 +24,7 @@ public class EqLastTest {
     @Test
     public void whenEqEv() {
         int[] left = {1, 2, 3, 7};
-        int[] right = {3, 3, 4 , 7};
+        int[] right = {3, 3, 4, 7};
         boolean result = EqLast.check(left, right);
         Assert.assertTrue(result);
     }
@@ -32,7 +32,7 @@ public class EqLastTest {
     @Test
     public void whenNotEqEv() {
         int[] left = {1, 2, 3, 9};
-        int[] right = {3, 3, 4 , 7};
+        int[] right = {3, 3, 4, 7};
         boolean result = EqLast.check(left, right);
         Assert.assertFalse(result);
     }
