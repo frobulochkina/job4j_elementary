@@ -5,10 +5,11 @@ public class EndsWith {
         boolean result = true;
         int lenWord = word.length;
         for (int i = post.length - 1; i >= 0; i--) {
-            if (post[i] == word[lenWord - 1])
+            if (post[i] == word[lenWord - 1]) {
                 lenWord--;
-            else
+            } else {
                 return false;
+            }
         }
         return result;
     }
